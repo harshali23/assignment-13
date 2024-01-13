@@ -1,0 +1,19 @@
+.headcolor{
+    color: rgb(184, 24, 196);
+}
+.subhead{
+    font-size:20px; 
+    color:#03225C;
+}
+.headtext{
+    padding-top: 100px;
+}
+.form-group.required .control-label:after { 
+    content:"*";
+    color:red;
+ }
+
+ .laptopimg{
+      height: 250px;
+ }
+
